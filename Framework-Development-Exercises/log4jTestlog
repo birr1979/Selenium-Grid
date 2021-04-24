@@ -1,0 +1,585 @@
+2021-04-10 00:56:32,402 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-10 00:56:32,571 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-10 00:56:37,306 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-10 00:56:41,654 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-10 00:56:41,894 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-10 00:56:42,135 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-10 00:56:42,433 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-10 00:56:42,715 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-10 00:56:42,900 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-10 00:56:43,088 INFO a.Cars [main] Clicked on search button
+2021-04-10 00:56:53,118 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-10 00:57:03,155 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-10 00:57:03,156 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-10 00:57:04,492 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-10 00:57:04,641 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-10 00:57:13,588 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-10 00:57:15,228 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-10 00:57:15,501 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-10 00:57:15,747 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-10 00:57:15,932 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-10 00:57:16,219 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-10 00:57:16,395 INFO a.Cars [main] 22031 is entered in the ZipCode input field. 
+2021-04-10 00:57:16,621 INFO a.Cars [main] Clicked on search button
+2021-04-10 00:57:26,652 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-10 00:57:36,710 INFO a.Cars [main] Honda has 0 models to choose from.
+2021-04-10 00:57:36,711 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-10 01:15:34,009 INFO a.Cars [main] The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/MicrosoftWebDriver. The latest version can be downloaded from http://go.microsoft.com/fwlink/?LinkId=619687
+2021-04-10 01:15:34,014 ERROR a.Cars [main] Unable to launch the Browser.
+2021-04-10 01:15:34,028 INFO a.Cars [main] The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/MicrosoftWebDriver. The latest version can be downloaded from http://go.microsoft.com/fwlink/?LinkId=619687
+2021-04-10 01:15:34,028 ERROR a.Cars [main] Unable to launch the Browser.
+2021-04-20 23:36:33,110 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:36:33,277 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:36:42,042 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-20 23:36:43,473 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-20 23:36:43,627 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-20 23:36:43,814 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-20 23:36:44,020 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-20 23:36:44,210 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-20 23:36:44,376 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-20 23:36:44,515 INFO a.Cars [main] Clicked on search button
+2021-04-20 23:36:54,556 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-20 23:37:04,613 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-20 23:37:04,613 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-20 23:37:05,882 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:37:06,005 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:37:14,421 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-20 23:37:16,341 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-20 23:37:16,491 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-20 23:37:16,667 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-20 23:37:16,805 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-20 23:37:16,953 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-20 23:37:17,088 INFO a.Cars [main] 22031 is entered in the ZipCode input field. 
+2021-04-20 23:37:17,257 INFO a.Cars [main] Clicked on search button
+2021-04-20 23:37:27,278 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-20 23:37:37,291 INFO a.Cars [main] Honda has 0 models to choose from.
+2021-04-20 23:37:37,291 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-20 23:38:41,812 INFO a.Cars [main] The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/MicrosoftWebDriver. The latest version can be downloaded from http://go.microsoft.com/fwlink/?LinkId=619687
+2021-04-20 23:38:41,816 ERROR a.Cars [main] Unable to launch the Browser.
+2021-04-20 23:38:41,825 INFO a.Cars [main] The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/MicrosoftWebDriver. The latest version can be downloaded from http://go.microsoft.com/fwlink/?LinkId=619687
+2021-04-20 23:38:41,826 ERROR a.Cars [main] Unable to launch the Browser.
+2021-04-20 23:39:23,933 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:39:24,138 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:39:33,693 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-20 23:39:34,808 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-20 23:39:35,006 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-20 23:39:35,226 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-20 23:39:35,422 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-20 23:39:35,654 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-20 23:39:35,775 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-20 23:39:35,959 INFO a.Cars [main] Clicked on search button
+2021-04-20 23:39:49,018 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-20 23:39:59,041 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-20 23:39:59,041 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-20 23:40:00,250 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:40:00,387 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:40:05,952 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-20 23:40:08,859 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-20 23:40:09,067 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-20 23:40:09,317 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-20 23:40:09,507 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-20 23:40:09,703 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-20 23:40:09,922 INFO a.Cars [main] 22031 is entered in the ZipCode input field. 
+2021-04-20 23:40:10,102 INFO a.Cars [main] Clicked on search button
+2021-04-20 23:40:23,113 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-20 23:40:28,242 INFO a.Cars [main] Honda has 0 models to choose from.
+2021-04-20 23:40:28,243 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-20 23:52:46,527 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:52:46,670 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:52:49,317 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-20 23:52:50,896 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-20 23:52:50,990 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-20 23:52:51,152 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-20 23:52:51,303 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-20 23:52:51,426 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-20 23:52:51,512 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-20 23:52:51,631 INFO a.Cars [main] Clicked on search button
+2021-04-20 23:53:07,653 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-20 23:53:20,694 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-20 23:53:20,695 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-20 23:53:21,989 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:53:22,118 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:54:14,423 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:54:14,564 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:54:17,234 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-20 23:54:20,009 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-20 23:54:20,254 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-20 23:54:20,501 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-20 23:54:20,687 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-20 23:54:20,874 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-20 23:54:21,025 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-20 23:54:21,176 INFO a.Cars [main] Clicked on search button
+2021-04-20 23:54:37,240 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-20 23:54:50,318 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-20 23:54:50,318 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-20 23:54:51,475 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:54:51,601 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:55:27,810 INFO a.Cars [main] Process unexpectedly closed with status 0
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MRB', ip: '10.0.0.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+2021-04-20 23:55:27,816 ERROR a.Cars [main] Unable to launch the Browser.
+2021-04-20 23:55:38,049 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:55:38,144 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:55:42,726 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-20 23:55:47,406 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-20 23:55:48,677 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-20 23:55:49,504 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-20 23:55:49,951 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-20 23:55:50,418 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-20 23:55:50,510 INFO a.Cars [main] 22031 is entered in the ZipCode input field. 
+2021-04-20 23:55:51,104 INFO a.Cars [main] Clicked on search button
+2021-04-20 23:56:07,124 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-20 23:57:04,879 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:57:04,897 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:57:06,609 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-20 23:57:09,540 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-20 23:57:10,520 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-20 23:57:12,077 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-20 23:57:12,819 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-20 23:57:13,339 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-20 23:57:13,392 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-20 23:57:13,843 INFO a.Cars [main] Clicked on search button
+2021-04-20 23:57:23,863 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-20 23:57:36,889 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-20 23:57:36,889 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-20 23:57:43,282 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-20 23:57:43,306 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-20 23:57:47,104 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:24:46,156 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:24:46,178 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:24:48,232 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:25:02,233 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:25:02,248 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:25:03,847 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:28:15,641 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:28:15,923 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:28:17,681 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:28:18,878 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 19:28:32,792 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:28:32,806 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:28:34,550 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:28:35,678 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 19:31:19,867 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:31:19,885 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:31:21,440 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:31:22,687 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 19:31:22,992 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 19:31:23,470 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 19:31:36,737 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:31:36,753 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:31:38,422 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:31:39,553 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 19:31:39,853 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 19:31:40,425 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 19:49:56,520 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:49:56,540 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:49:58,198 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:49:59,195 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 19:49:59,517 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 19:49:59,905 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 19:50:00,475 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 19:50:00,845 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 19:50:00,891 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-21 19:50:01,315 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:50:11,347 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 19:50:21,361 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 19:50:21,362 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 19:50:25,450 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:50:25,462 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:50:27,003 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:50:27,850 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 19:50:28,291 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 19:50:28,791 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 19:50:29,216 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 19:50:29,537 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 19:50:29,662 INFO a.Cars [main] 22031 is entered in the ZipCode input field. 
+2021-04-21 19:50:30,095 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:50:40,121 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-21 19:50:50,131 INFO a.Cars [main] Honda has 0 models to choose from.
+2021-04-21 19:50:50,131 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 19:51:48,364 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:51:48,380 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:51:49,891 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:51:50,910 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 19:51:51,271 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 19:51:51,747 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 19:51:52,187 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 19:51:52,653 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 19:51:54,702 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-21 19:51:55,028 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:52:05,053 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 19:52:15,064 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 19:52:15,065 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 19:52:19,139 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:52:19,151 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:52:20,740 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:52:21,759 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 19:52:22,139 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 19:52:22,588 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 19:52:22,994 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 19:52:23,327 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 19:52:25,379 INFO a.Cars [main] 22031 is entered in the ZipCode input field. 
+2021-04-21 19:52:25,778 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:53:21,707 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:53:21,730 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:53:23,306 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:53:24,122 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 19:53:24,504 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 19:53:25,072 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 19:53:25,667 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 19:53:25,988 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 19:53:28,040 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-21 19:53:28,761 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:53:38,778 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 19:53:48,798 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 19:53:48,798 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 19:53:52,845 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:53:52,861 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:53:54,600 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:53:55,378 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 19:53:55,680 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 19:53:56,148 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 19:53:56,569 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 19:53:56,915 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 19:53:58,990 INFO a.Cars [main] 22031 is entered in the ZipCode input field. 
+2021-04-21 19:53:59,551 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:54:44,548 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:54:44,573 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:54:46,403 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:54:47,366 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 19:54:47,682 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 19:54:48,304 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 19:54:48,748 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 19:54:49,024 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 19:54:51,078 INFO a.Cars [main] 22030 is entered in the ZipCode input field. 
+2021-04-21 19:54:51,531 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:54:56,528 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:54:56,541 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:58:23,715 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:58:23,736 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:58:25,325 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:58:26,343 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 19:58:26,669 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 19:58:26,949 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 19:58:27,340 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 19:58:27,445 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 19:58:27,795 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 19:58:28,167 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:59:25,753 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 19:59:25,769 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 19:59:27,280 INFO a.Cars [main] Navigated to: https://www.cars.com Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 19:59:28,070 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 19:59:28,491 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 19:59:28,905 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 19:59:29,527 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 19:59:29,919 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 19:59:30,046 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 19:59:30,580 INFO a.Cars [main] Clicked on search button
+2021-04-21 19:59:41,329 INFO a.Cars [main] Process unexpectedly closed with status 0
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MRB', ip: '10.0.0.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+2021-04-21 19:59:41,329 ERROR a.Cars [main] Unable to launch the Browser.
+2021-04-21 20:01:08,460 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:01:08,476 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:01:11,345 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping/ Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:01:24,654 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:01:24,665 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:01:27,113 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping/ Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:07:11,696 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:07:11,718 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:07:14,515 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping/ Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:07:14,730 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:07:15,060 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:07:15,367 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:07:15,655 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:07:16,234 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:07:16,300 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:07:16,555 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:07:26,567 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:07:36,575 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 20:07:36,576 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:07:40,838 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:07:40,850 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:07:43,333 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping/ Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:07:43,785 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 20:07:44,193 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 20:07:44,772 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 20:07:45,079 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 20:07:45,331 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 20:07:45,381 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-21 20:07:45,651 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:07:55,661 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-21 20:08:05,667 INFO a.Cars [main] Honda has 0 models to choose from.
+2021-04-21 20:08:05,667 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:08:41,989 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:08:42,140 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:08:44,853 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping/ Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:08:46,340 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:08:46,530 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:08:46,647 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:08:46,849 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:08:46,976 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:08:47,124 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:08:47,230 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:08:57,263 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:09:07,303 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 20:09:07,303 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:09:08,552 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:09:08,694 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:11:30,019 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:11:30,155 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:11:38,998 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:11:39,326 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:11:39,655 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:11:40,079 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:11:40,185 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:11:40,296 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:11:40,441 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:11:40,546 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:11:50,583 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:12:00,594 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 20:12:00,594 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:12:01,835 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:12:01,966 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:12:06,043 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:12:06,874 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 20:12:07,002 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 20:12:07,127 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 20:12:07,226 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 20:12:07,328 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 20:12:07,473 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-21 20:12:07,569 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:12:17,600 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-21 20:12:27,630 INFO a.Cars [main] Honda has 0 models to choose from.
+2021-04-21 20:12:27,630 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:15:15,718 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:15:15,868 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:15:19,779 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:15:31,040 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:15:31,180 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:15:35,389 INFO a.Cars [main] Navigated to: https://www.cars.com/shopping Home Page titled: Used Cars for Sale Online Near Me | Cars.com
+2021-04-21 20:16:14,960 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:16:15,112 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:16:17,925 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:16:19,097 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:16:19,229 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:16:19,369 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:16:19,490 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:16:19,631 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:16:19,886 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:16:19,993 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:16:30,022 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:16:40,094 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 20:16:40,094 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:16:41,278 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:16:41,423 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:16:49,791 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:16:50,297 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 20:16:50,746 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 20:16:50,865 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 20:16:50,971 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 20:16:51,090 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 20:16:51,224 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-21 20:16:51,327 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:17:01,370 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-21 20:17:11,400 INFO a.Cars [main] Honda has 0 models to choose from.
+2021-04-21 20:17:11,401 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:17:35,931 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:17:36,081 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:17:38,948 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:17:40,005 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:17:40,147 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:17:40,289 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:17:40,415 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:17:40,570 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:17:40,840 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:17:40,956 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:17:51,022 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:18:01,035 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 20:18:01,035 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:18:02,221 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:18:02,354 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:18:05,064 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:18:06,176 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 20:18:06,318 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 20:18:06,442 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 20:18:06,577 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 20:18:06,720 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 20:18:07,001 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-21 20:18:07,108 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:18:17,131 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-21 20:18:22,120 INFO a.Cars [main] Honda has 0 models to choose from.
+2021-04-21 20:18:22,120 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:33:32,555 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:33:32,703 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:33:36,072 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:33:37,345 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:33:37,477 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:33:37,624 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:33:37,782 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:33:37,929 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:33:38,186 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:33:38,293 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:33:50,557 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:34:00,698 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 20:34:00,698 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:34:10,873 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:35:47,212 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:35:47,366 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:35:50,236 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:35:51,618 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:35:51,752 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:35:51,886 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:35:52,040 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:35:52,227 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:35:52,527 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:35:52,656 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:36:05,418 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:36:15,509 INFO a.Cars [main] Dodge has 0 models to choose from.
+2021-04-21 20:36:15,509 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:36:24,520 INFO a.Cars [main] NaN is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:36:25,719 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:36:25,870 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:36:28,566 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:36:30,185 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 20:36:30,319 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 20:36:30,455 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 20:36:30,626 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 20:36:30,771 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 20:36:31,034 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-21 20:36:31,176 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:36:39,303 INFO a.Cars [main] NaN is the average price of the “New Cars” Car Search Results
+2021-04-21 20:37:29,075 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:37:29,228 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:37:33,690 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:37:34,159 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:37:34,299 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:37:34,456 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:37:34,589 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:37:34,715 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:37:34,961 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:37:35,082 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:37:42,006 INFO a.Cars [main] 28862.78947368421 is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:37:42,027 INFO a.Cars [main] Dodge has 16 models to choose from.
+2021-04-21 20:37:42,027 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:37:54,182 INFO a.Cars [main] 31152.58 is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:37:54,208 INFO a.Cars [main] Dodge has 14 models to choose from.
+2021-04-21 20:37:54,209 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:37:55,577 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:37:55,712 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:37:58,809 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:38:00,214 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 20:38:00,422 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 20:38:00,608 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 20:38:00,738 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 20:38:00,888 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 20:38:01,188 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-21 20:38:01,310 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:38:12,852 INFO a.Cars [main] 28862.78947368421 is the average price of the “New Cars” Car Search Results
+2021-04-21 20:38:12,872 INFO a.Cars [main] Honda has 16 models to choose from.
+2021-04-21 20:38:12,872 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:38:24,770 INFO a.Cars [main] 31152.58 is the average price of the “New Cars” Car Search Results
+2021-04-21 20:38:24,789 INFO a.Cars [main] Honda has 14 models to choose from.
+2021-04-21 20:38:24,789 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:41:17,649 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:41:17,792 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:41:21,107 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:41:22,446 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:41:22,601 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:41:22,781 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:41:23,016 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:41:23,176 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:41:23,476 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:41:23,586 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:41:27,311 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:41:27,462 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:41:30,595 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:41:31,919 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 20:41:32,042 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 20:41:32,184 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 20:41:32,375 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 20:41:32,514 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 20:41:32,815 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-21 20:41:32,937 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:45:10,369 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:45:10,512 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:45:13,795 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:45:15,299 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-21 20:45:15,429 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-21 20:45:15,618 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-21 20:45:15,847 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-21 20:45:16,022 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-21 20:45:16,324 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-21 20:45:16,439 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:45:25,508 INFO a.Cars [main] 28862.78947368421 is the average price of the “Used Cars” Car Search Results
+2021-04-21 20:45:25,527 INFO a.Cars [main] Dodge has 16 models to choose from.
+2021-04-21 20:45:25,527 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-21 20:45:26,858 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-21 20:45:26,998 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-21 20:45:31,412 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-21 20:45:32,132 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-21 20:45:32,240 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-21 20:45:32,360 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-21 20:45:32,469 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-21 20:45:32,594 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-21 20:45:32,752 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-21 20:45:32,913 INFO a.Cars [main] Clicked on search button
+2021-04-21 20:45:47,540 INFO a.Cars [main] 31124.32 is the average price of the “New Cars” Car Search Results
+2021-04-21 20:45:47,561 INFO a.Cars [main] Honda has 14 models to choose from.
+2021-04-21 20:45:47,561 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-24 00:08:00,318 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-24 00:08:00,460 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-24 00:08:04,336 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-24 00:08:04,973 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-24 00:08:05,123 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-24 00:08:05,589 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-24 00:08:05,690 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-24 00:08:05,794 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-24 00:08:06,018 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-24 00:08:06,127 INFO a.Cars [main] Clicked on search button
+2021-04-24 00:08:13,324 INFO a.Cars [main] 31116.57894736842 is the average price of the “Used Cars” Car Search Results
+2021-04-24 00:08:13,361 INFO a.Cars [main] Dodge has 16 models to choose from.
+2021-04-24 00:08:13,361 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-24 00:08:15,163 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-24 00:08:15,290 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-24 00:08:18,800 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-24 00:08:19,747 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-24 00:08:19,848 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-24 00:08:19,974 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-24 00:08:20,062 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-24 00:08:20,170 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-24 00:08:20,356 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-24 00:08:20,434 INFO a.Cars [main] Clicked on search button
+2021-04-24 00:08:29,785 INFO a.Cars [main] 31232.26 is the average price of the “New Cars” Car Search Results
+2021-04-24 00:08:29,815 INFO a.Cars [main] Honda has 14 models to choose from.
+2021-04-24 00:08:29,815 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-24 00:11:40,699 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-24 00:11:40,837 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-24 00:11:43,802 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-24 00:11:44,746 INFO a.Cars [main] Used Cars is selected form text drop down element.
+2021-04-24 00:11:44,863 INFO a.Cars [main] 50000 is selected form value drop down element.
+2021-04-24 00:11:45,003 INFO a.Cars [main] Dodge is selected form Text drop down element.
+2021-04-24 00:11:45,106 INFO a.Cars [main] 75 Miles from is selected form Text drop down element.
+2021-04-24 00:11:45,201 INFO a.Cars [main] Challenger is selected form Text drop down element.
+2021-04-24 00:11:45,403 INFO a.Cars [main] 22030 is entered in the ZipCode input field.
+2021-04-24 00:11:45,514 INFO a.Cars [main] Clicked on search button
+2021-04-24 00:11:53,746 INFO a.Cars [main] 31116.57894736842 is the average price of the “Used Cars” Car Search Results
+2021-04-24 00:11:53,761 INFO a.Cars [main] Dodge has 16 models to choose from.
+2021-04-24 00:11:53,762 INFO a.Cars [main] *******************Test Case Execution Ended ***************
+2021-04-24 00:11:55,564 INFO a.Cars [main] CHROME Browser Launched successfully.
+2021-04-24 00:11:55,684 INFO a.Cars [main] *******************Test Case Execution Started ***************
+2021-04-24 00:11:58,723 INFO a.Cars [main] Navigated to: https://www.cars.com/ Home Page titled: New Cars, Used Cars, Car Dealers, Prices & Reviews | Cars.com
+2021-04-24 00:11:59,706 INFO a.Cars [main] New Cars is selected form text drop down element.
+2021-04-24 00:11:59,825 INFO a.Cars [main] 35000 is selected form value drop down element.
+2021-04-24 00:11:59,966 INFO a.Cars [main] Honda is selected form Text drop down element.
+2021-04-24 00:12:00,070 INFO a.Cars [main] 200 Miles from is selected form Text drop down element.
+2021-04-24 00:12:00,178 INFO a.Cars [main] Accord is selected form Text drop down element.
+2021-04-24 00:12:00,367 INFO a.Cars [main] 22031 is entered in the ZipCode input field.
+2021-04-24 00:12:00,454 INFO a.Cars [main] Clicked on search button
+2021-04-24 00:12:09,670 INFO a.Cars [main] 31232.26 is the average price of the “New Cars” Car Search Results
+2021-04-24 00:12:09,686 INFO a.Cars [main] Honda has 14 models to choose from.
+2021-04-24 00:12:09,686 INFO a.Cars [main] *******************Test Case Execution Ended ***************
